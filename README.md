@@ -1,4 +1,4 @@
-# SQLite Wasm（メインスレッドでラップされたワーカーを使用する）のサンプル
+# SQLite Wasm（メインスレッドでラップされたワーカーを使用する）利用サンプル
 
 [Notionブラウザ版、WebAssembly版SQLite3でページ遷移速度を20％改善　実装時の苦労と教訓とは？](https://atmarkit.itmedia.co.jp/ait/articles/2408/16/news037.html)
 という記事が話題に上がっていました（複数タブから同時アクセスする場合の苦労話）
